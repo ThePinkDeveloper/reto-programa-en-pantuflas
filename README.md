@@ -121,8 +121,6 @@ Deja esta línea para no perder la referencia:
 
 Estoy participando en el reto #ProgramaEnPantuflas.
 
-Aquí tu primer apunte
-
 ---
 ​
 **Fecha**: 08/01/2021
@@ -143,6 +141,24 @@ Aquí tu primer apunte
 - Relanzar Plusiam usando Godot Engine
 - Hacer un bot de telegram que me dé los precios de las criptomonedas que sigo usando la API de Probit
 - Hacer un juego, tipo roguelike, usando canvas de html5 y PHP
+
+---
+​
+**Fecha**: 11/01/2021
+
+**Humor**: 😀 
+
+**Hitos conseguidos**:
+- Subir todo lo que tenía del proyecto de ayuda a la navegación para ultraligeros (nav-app-jagf) a un repositorio de github.
+- Clonar el repositorio en mi nueva máquina de trabajo.
+
+**Próximos hitos**
+- Eliminar toda la parte de la aplicación en html y dejarla como una Rest API pura.
+- Documentar el estado actual de la aplicación (la última vez no te acordabas de cómo se arrancaba)
+- Comenzar a trabajar en el front.
+
+**Comentarios**
+- Céntrate en terminar un front, no tiene que ser espectacular, es decir, consigue que funcione y ya después trabaja en ponerlo "bonito", ya sabes, eso que tú quieres de que quede a pantalla completa en el móvil, pero, lo principal es que se muestran datos.
 
 ## **Badges**
 
