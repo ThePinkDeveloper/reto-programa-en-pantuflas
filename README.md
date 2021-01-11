@@ -144,15 +144,18 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 ​
-**Fecha**: 11/01/2021
+**Fecha**: 11/01/2021 (UPDATE)
 
-**Humor**: 😀 
+**Humor**: 😀
 
 **Hitos conseguidos**:
+- (Actualización) *He tenbido que borrar el proyecto de Github al recibir un aviso de GitGuardian indicando que he dejado expuesto mi token de openweather. ¡¡Para que otra vez te rías de que se dejan los tokens de RadarCovid en los repositorios públicos!!
 - Subir todo lo que tenía del proyecto de ayuda a la navegación para ultraligeros (nav-app-jagf) a un repositorio de github.
 - Clonar el repositorio en mi nueva máquina de trabajo.
 
 **Próximos hitos**
+- (Actualización) Volver a subir el proyecto a Github, esta vez sin token ni claves expuestas
+- *HITO PRIORIZADO!!* (Actualización) Idear un forma de que el token se lea de un archivo incluido en .gitignore.
 - Eliminar toda la parte de la aplicación en html y dejarla como una Rest API pura.
 - Documentar el estado actual de la aplicación (la última vez no te acordabas de cómo se arrancaba)
 - Comenzar a trabajar en el front.
