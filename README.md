@@ -48,7 +48,7 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 ​
-**Fecha**: 16/01/2021 (UPDATE)
+**Fecha**: 16/01/2021
 
 **Humor**: 😀
 
