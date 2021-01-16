@@ -26,7 +26,7 @@ Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 *   [alexhermida](https://github.com/alexhermida/reto-programa-en-pantuflas)
 *   [prinhelmet](https://github.com/prinhelmet/reto-programa-en-pantuflas)
 *   [ajmasia](https://github.com/ajmasia/reto-programa-en-pantuflas)
-*   [ThePinkDevelepoper](https://github.com/ThePinkDeveloper/reto-programa-en-pantuflas)
+*   [ThePinkDeveloper](https://github.com/ThePinkDeveloper/reto-programa-en-pantuflas)
 *   [xurxof](https://github.com/xurxof/reto-programa-en-pantuflas)
 *   [supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
 *   [delineas](https://github.com/delineas/programa-en-pantuflas)
