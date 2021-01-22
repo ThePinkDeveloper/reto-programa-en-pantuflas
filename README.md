@@ -12,13 +12,13 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 **Hitos conseguidos**:
 - Tras leer el comentario de Pablo en "Los malandriners", invertir el orden de las entradas del diario poniendo la más reciente la primera (como aparecen en un blog)
-- Proyecto uml-nav-app-jagf[https://github.com/ThePinkDeveloper/uml-nav-aid-jagf]: Eliminar la parte de acceso pública del servidor lo que sólo deja acceso a un endpoint. Se mantiene, sin embargo, el código html (inaccesible) para usarlo como plantilla cuando cree el proyecto de front.
-- Proyecto uml-nav-app-jagf[https://github.com/ThePinkDeveloper/uml-nav-aid-jagf]: Limpiar y codificar algunas partes del código que me ha costado más comprender (después de más de 6 meses que lo escribí) para  mejorar la legibilidad.
+- [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Eliminar la parte de acceso pública del servidor lo que sólo deja acceso a un endpoint. Se mantiene, sin embargo, el código html (inaccesible) para usarlo como plantilla cuando cree el proyecto de front.
+- [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Limpiar y codificar algunas partes del código que me ha costado más comprender (después de más de 6 meses que lo escribí) para  mejorar la legibilidad.
 
 **Próximos hitos**
-- Proyecto uml-nav-app-jagf[https://github.com/ThePinkDeveloper/uml-nav-aid-jagf]: Documentar el estado actual de la aplicación (la última vez no te acordabas de cómo se arrancaba)
-- Proyecto uml-nav-app-jagf[https://github.com/ThePinkDeveloper/uml-nav-aid-jagf]: Comenzar a trabajar en el front. **HITO PRIORIZADO**
-- Proyecto uml-nav-app-jagf[https://github.com/ThePinkDeveloper/uml-nav-aid-jagf]: Investigar cómo minificar el proyecto de node (¿webpack?)
+- [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Documentar el estado actual de la aplicación (la última vez no te acordabas de cómo se arrancaba)
+- [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Comenzar a trabajar en el front. **HITO PRIORIZADO**
+- [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Investigar cómo minificar el proyecto de node (¿webpack?)
 
 ---
 ​
