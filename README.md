@@ -11,6 +11,7 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 **Humor**: 😀
 
 **Hitos conseguidos**:
+- [Actualización] Ni los burros tropiezan dos veces en la misma piedra. He tenido que borrar nuevamente el proyecto en Github y volverlo a subir puesto que me ha bía dejado atrás un segundo archivo con mi apiKey privada de open weather.... Como ya lo he hecho con anteriordad recientemente el proceso ha sido rápido. Sin embargo, para borrar todo rastro del archivo del conflicto he eliminado la carpeta .git de mi repostorio local y borrado y creado un nuevo proyecto de git, con lo que he perdido todo el historial de antiguos commits. Lo he hecho así porque eran pocos (sólo 2 commits), si llego a tener 50 commits tengo que buscarme la manera de eliminar el archivo de la discordia del historial de commits. 
 - Tras leer el comentario de Pablo en "Los malandriners", invertir el orden de las entradas del diario poniendo la más reciente la primera (como aparecen en un blog)
 - [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Eliminar la parte de acceso pública del servidor lo que sólo deja acceso a un endpoint. Se mantiene, sin embargo, el código html (inaccesible) para usarlo como plantilla cuando cree el proyecto de front.
 - [Proyecto uml-nav-app-jagf](https://github.com/ThePinkDeveloper/uml-nav-aid-jagf): Limpiar y codificar algunas partes del código que me ha costado más comprender (después de más de 6 meses que lo escribí) para  mejorar la legibilidad.
